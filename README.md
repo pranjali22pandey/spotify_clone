@@ -1,37 +1,44 @@
 # React + Tailwind = Spotify Clone
 
-React + Tailwind serisinin bu bölümünde spotify'ın web versiyonunu birlikte kodluyoruz.
+In this section of the React + Tailwind series, we are coding Spotify's web version together.
 
-1. bölümde öğrenecekleriniz
-    - React ve tailwind kurulumu
-    - React Router kurulumu
-    - Temel componentlerin oluşturulması
-    - Mevcut sayfalar için view'ların oluşturulması
-    - SVG iconların oluşturulması
-    - `<Sidebar />` componentinin kodlanması
+*What you will learn in this section:*
 
-2. bölümde öğrenecekleriniz
-   - `<Navbar />` ve `<Home />` componentlerinin kodlanması
-   - `tailwind` için `line-clamp` eklentisi kullanımı
-   - Accessibility için `headlessui` kullanımı
-   - `react-router` hookları
-3. bölümde öğrenecekleriniz
-   - `<Player />` componentinin kodlanması
-   - Ses dosyalarını yönetmek için `react-use` paketinin kullanımı
-   - Player range slider için `react-range` paketinin kullanımı
-   - State'leri global olarak yönetmek için `redux` kullanımı
-4. bölümde öğrenecekleriniz
-   - Search bölümünü kodluyoruz
-   - Drag scrollbar paketini kurup ufak bir carousel hazırlıyoruz
-   - Bolca tailwind kullanıyoruz :)
-5. bölümde öğrenecekleriniz
-   - Full Screen Player yönetimi
-   - Full Screen'e özel hook'un kullanımı
-   - Bolca tailwind :)
-6. bölüm hazırlanacak....
+.Installation of React and Tailwind
+.Installation of React Router
+.Creation of basic components
+.Creation of views for existing pages
+.Creation of SVG icons
+.Coding the <Sidebar /> component
 
-## Demo
+*What you will learn in this section:*
 
-Şu ana kadar yapılmış son halinin demosu
+.Coding the <Navbar /> and <Home /> components
+.Usage of the line-clamp extension for Tailwind
+.Usage of headlessui for accessibility
+.React-router hooks
+
+*What you will learn in this section:*
+
+.Coding the <Player /> component
+.Usage of the react-use package for managing audio files
+.Usage of the react-range package for the Player range slider
+.Usage of Redux for managing global states
+
+*What you will learn in this section:*
+
+.Coding the Search section
+.Installation of the drag scrollbar package and creating a small carousel
+.Abundant use of Tailwind :)
+
+*What you will learn in this section:*
+
+.Management of the Full Screen Player
+.Usage of a custom hook for Full Screen
+.Abundant use of Tailwind :)
+.Section to be prepared....
+
+**Demo**
+Check out the demo of the current state of the project so far.
 
 [https://react-tailwind-spotify-demo.netlify.app/](https://react-tailwind-spotify-demo.netlify.app/)
